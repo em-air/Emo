@@ -1,6 +1,6 @@
 # Emo
 
-A fun discord bot coded in Python
+A fun discord chat bot coded in Python
 
 ## Getting Started
 
@@ -12,5 +12,5 @@ Send e.help in a channel to get started!
 
 
 Discord: Em.#0694\
-Github: [ShMoUm](https://github.com/ShMoUm)\
+Github: [em-air](https://github.com/ShMoUm)\
 Email: thisisumairr@protonmail.com
