@@ -1,0 +1,5 @@
+/config.json
+/__pycache__/
+/evenv/
+/.vscode/settings.json
+guilds.json
