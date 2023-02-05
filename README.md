@@ -11,6 +11,5 @@ Send e.help in a channel to get started!
 ## Contributors names and contact info
 
 
-Discord: Em.#0694\
 Github: [em-air](https://github.com/ShMoUm)\
-Email: thisisumairr@protonmail.com
+Email: smumair2003@gmail.com
